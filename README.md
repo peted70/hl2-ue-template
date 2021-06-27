@@ -9,10 +9,12 @@ It includes the following:
 
 In order to install:
 
-Navigate to `[Unreal install location]\[Unreal version]]\Templates`
-
 and run the following `git` command
 
 > git clone --recurse-submodules https://github.com/peted70/hl2-ue-template.git
 
+Then, copy the subfolder `DefaultHL2Template` and all of it's contents to `[Unreal install location]\[Unreal version]]\Templates`
+
 This will copy the files for the template and the dependent plugins into your project templates. So when you create a new project you should see.
+
+![template](./images/templte.png)
