@@ -21,5 +21,5 @@ This will copy the files for the template and the dependent plugins into your pr
 
 ![template](./images/template.png)
 
-For further details see:
+For further details see: https://peted.azurewebsites.net/hololens-2-unreal-project-template/
 
