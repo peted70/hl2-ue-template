@@ -1,3 +1,6 @@
 [submodule "DefaultHL2Template/Plugins/MixedReality-GraphicsTools-Unreal"]
 	path = DefaultHL2Template/Plugins/MixedReality-GraphicsTools-Unreal
 	url = https://github.com/microsoft/MixedReality-GraphicsTools-Unreal.git
+[submodule "DefaultHL2Template/Plugins/MixedReality-UXTools-Unreal"]
+	path = DefaultHL2Template/Plugins/MixedReality-UXTools-Unreal
+	url = https://github.com/microsoft/MixedReality-UXTools-Unreal.git
