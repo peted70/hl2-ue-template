@@ -4,3 +4,6 @@
 [submodule "DefaultHL2Template/Plugins/MixedReality-UXTools-Unreal"]
 	path = DefaultHL2Template/Plugins/MixedReality-UXTools-Unreal
 	url = https://github.com/microsoft/MixedReality-UXTools-Unreal.git
+[submodule "DefaultHL2Template/Plugins/MixedReality-OpenXR-Unreal"]
+	path = DefaultHL2Template/Plugins/MixedReality-OpenXR-Unreal
+	url = https://github.com/microsoft/Microsoft-OpenXR-Unreal.git
