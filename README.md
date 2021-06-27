@@ -7,6 +7,8 @@ It includes the following:
 
 - [Mixed Reality Graphics Tools for Unreal](https://github.com/microsoft/MixedReality-GraphicsTools-Unreal)
 
+- [Microsoft OpenXR for Unreal](https://github.com/microsoft/Microsoft-OpenXR-Unreal)
+
 In order to install:
 
 and run the following `git` command
