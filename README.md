@@ -17,4 +17,7 @@ Then, copy the subfolder `DefaultHL2Template` and all of it's contents to `[Unre
 
 This will copy the files for the template and the dependent plugins into your project templates. So when you create a new project you should see.
 
-![template](./images/templte.png)
+![template](./images/template.png)
+
+For further details see:
+
